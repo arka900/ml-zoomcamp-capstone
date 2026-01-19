@@ -1,7 +1,7 @@
 
 ---
 
-# 💧 Water Potability – ML Zoomcamp Capstone Project
+# Water Potability – ML Zoomcamp Capstone Project
 
 This project predicts whether a water sample is **potable** (safe for human consumption) based on environmental and chemical sensor readings such as **pH, Sulfate levels, Hardness, and Chloramines**.
 
@@ -9,7 +9,7 @@ The dataset is automatically fetched from **Kaggle** and processed through a **r
 
 ---
 
-## 🚀 Project Features
+## Project Features
 
 - End-to-end **Machine Learning Pipeline**
   - Data fetching
@@ -27,7 +27,7 @@ The dataset is automatically fetched from **Kaggle** and processed through a **r
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The Jupyter notebook includes:
 
@@ -37,9 +37,9 @@ The Jupyter notebook includes:
 
 ---
 
-## 🛠️ Setup & Usage
+## Setup & Usage
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone git@github.com:arka900/ml-zoomcamp-capstone.git
@@ -69,7 +69,7 @@ This will generate:
 ## 4. Run the Prediction Service Locally
 
 ```bash
-python main.py
+python app.py
 ```
 
 Open the browser:
