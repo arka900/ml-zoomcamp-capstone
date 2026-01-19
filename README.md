@@ -113,4 +113,4 @@ http://127.0.0.1:7860/docs
 
 I have used Hugging Face Spaces (http://huggingface.co) to host the Docker container. 
 
-It lives on at: https://huggingface.co/spaces/arka900/water-potability-api
+It lives on at: https://huggingface.co/spaces/arka900/water-potability
