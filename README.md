@@ -3,7 +3,7 @@
 
 # Water Potability – ML Zoomcamp Capstone Project
 
-This project predicts whether a water sample is **potable** (safe for human consumption) based on environmental and chemical sensor readings such as **pH, Sulfate levels, Hardness, and Chloramines**.
+This project predicts whether a water sample is **potable** (safe for human consumption) based on environmental and chemical sensor readings such as **pH, Sulfate, Solids, Turbidity, Hardness, Trihalomethanes, Organic_carbon, Conductivity, and Chloramines**.
 
 The dataset is automatically fetched from **Kaggle** and processed through a **robust Random Forest machine learning pipeline**.
 
