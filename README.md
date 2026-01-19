@@ -106,7 +106,6 @@ API will be available at:
 ```
 http://127.0.0.1:7860
 http://127.0.0.1:7860/docs
-
 ```
 
 ### 7. Cloud Deployment
@@ -114,3 +113,5 @@ http://127.0.0.1:7860/docs
 I have used Hugging Face Spaces (http://huggingface.co) to host the Docker container. 
 
 It lives on at: https://huggingface.co/spaces/arka900/water-potability
+
+![Screenshot](https://github.com/arka900/ml-zoomcamp-capstone/blob/main/Screenshot.png)
